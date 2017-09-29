@@ -10,3 +10,5 @@ function logShout(string) {
 function logWhisper(string) {
   console.log(string.toLowerCase())
 }
+sayHiToGranma(string) = "I can't hear you!"
+if {string = whisper}
