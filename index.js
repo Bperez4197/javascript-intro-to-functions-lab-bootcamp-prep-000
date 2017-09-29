@@ -10,7 +10,3 @@ function logShout(string) {
 function logWhisper(string) {
   console.log(string.toLowerCase())
 }
-var sayHiToGrandma = "hi grandma"
-if (sayHiToGranmda === lowercase) {
-  console.log("I can't hear you!")
-}
