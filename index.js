@@ -17,4 +17,3 @@ if (string === whisper(string)) {
   else (string === shout(string))
     return "YES INDEED!"
   }
-
